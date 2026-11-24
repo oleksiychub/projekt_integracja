@@ -1,0 +1,5 @@
+[
+  {"kod": "P005", "nazwa": "Słuchawki", "cena": 249.00, "ilosc": 30},
+  {"kod": "P006", "nazwa": "Kamera internetowa", "cena": 189.50, "ilosc": 25},
+  {"kod": "P007", "cena": 59.00, "ilosc": 100}
+]
