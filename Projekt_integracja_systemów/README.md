@@ -6,5 +6,7 @@ Zmiana produktu w jednej aplikacji jest od razu wysyłana do drugiej przez REST 
 ## Uruchomienie
 
 pip install -r requirements.txt
+
 python sklep.py      # terminal 1  ->  http://127.0.0.1:5001
+
 python magazyn.py    # terminal 2  ->  http://127.0.0.1:5002
