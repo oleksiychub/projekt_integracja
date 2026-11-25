@@ -15,4 +15,4 @@ python magazyn.py    # terminal 2  ->  http://127.0.0.1:5002
 
 Invoke-RestMethod -Method Post -Uri http://127.0.0.1:5002/api/sync
 
-Invoke-RestMethod -Method Post -Uri http://127.0.0.1:5002/api/sync -Headers @{Authorization="Bearer 123"} -ContentType "application/json" -Body '{"kod": "X1"}'
+Invoke-RestMethod -Method Post -Uri http://127.0.0.1:5002/api/sync -Headers @{Authorization="123"} -ContentType "application/json" -Body '{"kod": "X1"}'
